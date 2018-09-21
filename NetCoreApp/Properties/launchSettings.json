@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NetCoreApp": {
+      "commandName": "Project",
+      "commandLineArgs": "-o GitHub -p NetCoreApp"
+    }
+  }
+}
